@@ -6,6 +6,6 @@
         "esModuleInterop": true
     },
     "files": [
-        "app.ts"
+        "resume.ts"
     ]
 }

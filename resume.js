@@ -1,10 +1,8 @@
-const fullName = "Gabriel Austin";
-
-let displayPosition = (job_title: string, company_name: string, description: string) => {
+var fullName = "Gabriel Austin";
+var displayPosition = function (job_title, company_name, description) {
     console.log(job_title, company_name, description);
-    console.log(`* ${job_title} at ${company_name} - ${description}`);
+    console.log("* " + job_title + " at " + company_name + " - " + description);
 };
-
 console.log("My Previous Experience:");
 displayPosition("Computer Science Teacher", "Uncommon Schools in Brooklyn, NY", "Developed curriculum plan for the school year; Taught students how to write and debug code");
 displayPosition("Office Manager", "Uncommon Schools in Brooklyn, NY", "Built and maintained positive relationships with students, families, and colleagues");

@@ -1,0 +1,21 @@
+{
+  "name": "js-console-resume-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabeaustin/js-console-resume-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabeaustin/js-console-resume-typescript/issues"
+  },
+  "homepage": "https://github.com/gabeaustin/js-console-resume-typescript#readme"
+}
